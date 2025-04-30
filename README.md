@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IzayaLC
+👋 Hi, I’m @IzayaLC
   
 - 👀 I’m interested in Network Infrastructure and Information Security 
 - 🌱 I’m currently learning Python and Log Analysis
