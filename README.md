@@ -1,7 +1,7 @@
 👋 Hi, I’m @IzayaLC
   
 - 👀 I’m interested in Network Infrastructure and Information Security 
-- 🌱 I’m currently learning Python and Log Analysis
+- 🌱 I’m currently learning Python, Log Analysis, and Web Development
   
 
 
