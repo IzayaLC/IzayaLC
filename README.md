@@ -2,6 +2,8 @@
   
 - 👀 I’m interested in digital forensics.
 - 🌱 I’m currently learning Python, Log Analysis, and Linux.
+
+
   
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
