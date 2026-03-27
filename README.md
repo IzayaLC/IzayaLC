@@ -4,8 +4,7 @@
 - 🌱 I’m currently learning Python, Log Analysis, and Linux.
 
 
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IzayaLC)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IzayaLC&theme=default)
 <!---
 IzayaLC/IzayaLC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
